@@ -1,5 +1,5 @@
 # Tian Xiao
-8510 6059 • tianxiao02@u.nus.edu • [www.linkedin.com/in/tian-xiao-1202]
+8510 6059 • tianxiao02@u.nus.edu • [www.linkedin.com/in/tian-xiao-1202](www.linkedin.com/in/tian-xiao-1202)
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
