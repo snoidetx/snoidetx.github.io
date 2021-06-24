@@ -18,6 +18,29 @@
 - MA2104 Multivariable Calculus
 - ST2131 Probability
 
+## National Junior College (Jan 2018 - Dec 2019)
+### Singapore Cambridge GCE A-Level Certificate
+- Ministry of Education School-based Scholarship (SM1)
+
+### Relevant Coursework/Modules Taken
+- H2 Economics
+- H2 Further Mathematics
+- H2 Mathematics
+- H2 Physics
+
+## Catholic High School (Jan 2016 - Dec 2017)
+### Singapore Cambridge GCE O-Level Certificate
+- Ministry of Education School-based Scholarship (SM1)
+
+### Relevant Coursework/Modules Taken
+- Additional Mathematics
+- Biology
+- Chemistry
+- Mathematics
+- Physics
+
+## Northeast Yucai School (Sep 2011 - Oct 2015)
+
 # Work and Internship Experiences
 ## Agency for Science, Technology and Research, Researcher (Mar 2018 - Feb 2019)
 - Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios
