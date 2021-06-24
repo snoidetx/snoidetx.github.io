@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+title: TIAN XIAO
+
+author: Snoide Tian Xiao
+
+navbar-links:
+  resources: "[url]"
+ 
+avatar: "/img/logo.jpg"
+round-avatar: false
