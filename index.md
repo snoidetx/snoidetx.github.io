@@ -1,4 +1,4 @@
-# Contact Information
+# Tian Xiao
 8510 6059 • tianxiao02@u.nus.edu • [www.linkedin.com/in/tian-xiao-1202]
 
 # Education
@@ -36,7 +36,16 @@
 - Cooperated with conductors and other sections to achieve perfect coordination across orchestra and obtained a Certification of Distinction at Singapore Youth Festival 2019 Arts Presentation For Chinese Orchestra (Full Orchestra) - JC
 - Organised activities and outings to promote camaraderie within whole orchestra involving about 100 members
 
+## Citi-YMCA Youth for Causes: Project EOS, Chairperson (Feb 2018 - Oct 2018)
+- Initiated and chaired Project EOS to raise funds and public awareness for underprivileged children in Singapore
+- Partnered with Singapore Children’s Society for starting funds and necessary help in order to improve credibility and authority
+- Communicated with members for creative marketing strategies and raised thousands of Singapore Dollars for underprivileged children
 
+## School Chinese Drama, Student Director (Jan 2016 - June 2017)
+- Directed drama shows and supervised script-writing, trainings and performances
+- Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - JC
 
-
-
+# Additional Information
+- **Languages:** English (Proficient), Mandarin (Native)
+- **IT Skills:** Programming Languages (C, CSS, HTML, Java, JavaScript, Python), Productive Softwares (Adobe Flash, Adobe Photoshop, Adobe Audition, Studio One), Social Media (Instagram, Facebook)
+- **Interests:** Basketball, Music
