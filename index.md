@@ -1,6 +1,8 @@
-# Tian Xiao
+# About Me
 8510 6059 • tianxiao02@u.nus.edu • [linkedin.com/in/tian-xiao-1202/](https://www.linkedin.com/in/tian-xiao-1202/)  
-[_Click here to view my resources!_](https://github.com/snoidetx/snoidetx.github.io/tree/resources)
+- [Home](https://snoidetx.github.io)
+- [Research](https://snoidetx.github.io/research)
+- [Resources]()
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
