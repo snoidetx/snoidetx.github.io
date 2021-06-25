@@ -2,7 +2,7 @@
 8510 6059 • tianxiao02@u.nus.edu • [linkedin.com/in/tian-xiao-1202/](https://www.linkedin.com/in/tian-xiao-1202/)  
 - [Home](https://snoidetx.github.io)
 - [Research](https://snoidetx.github.io/research)
-- [Resources]()
+- [Resource](https://snoidetx.github.io/resource)
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
