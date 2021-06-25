@@ -11,7 +11,7 @@ Here are the research projects that I have done before. Please contact me via em
 Somatropin is a type of drug used to complement natural somatotropin secreted by human pituitary gland in treating growth hormone deficiency. Its working mechanism is identical to somatotropin - binding to somatotropin receptors, activation of receptors and therefore activation of two signaling pathways, namely JAK-STAT pathway and MAPK pathway. Somatropin is conventionally produced through recombinant DNA technology, which is time-consuming and requires daily administration. More advanced techniques have been developed to improve such drawbacks.
 
 ## Image Preview
-
+<img src="/cont/research/img/somatropin-and-growth-hormone-deficiency-1.PNG" height=100>
 
 ## Link to Full Text
 - [https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/somatropin-and-growth-hormone-deficiency.pdf](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/somatropin-and-growth-hormone-deficiency.pdf)
@@ -26,7 +26,14 @@ Lock-in Thermography (LIT) is a type of Infrared Thermography (IRT) that can be 
 ## Link to Full Text
 - [https://www.researchgate.net/publication/331587447_Identifying_the_Geometry_of_an_Object_Using_Lock-In_Thermography](https://www.researchgate.net/publication/331587447_Identifying_the_Geometry_of_an_Object_Using_Lock-In_Thermography)
 - [https://arxiv.org/pdf/1903.02854.pdf](https://arxiv.org/pdf/1903.02854.pdf)
+- [https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/identifying-the-geometry-of-an-object-using-lock-in-thermography.pdf](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/identifying-the-geometry-of-an-object-using-lock-in-thermography.pdf)
 
 # Thermography - A Big Data Problem (Experiments), 2019
 ## Abstract
 In this paper, two techniques of identifying the geometry of objects using Lock-in Thermography (LIT) are discussed. Identifying geometries can be applied into many areas, such as global scanning and detecting interior ndefects. LIT is a widely used non-destructive technique (NDT) where a periodic power input is applied onto the surface of an object and the response signals are captured and analysed. Thousands of data points are obtained from each sample for analysis. The main idea of both techniques is to link the thickness of each data point to the response signal. With the thickness and the coordinates of each data point, the 3-dimensional geometry of the whole object can be obtained. Evaluation of the techniques include both root-mean-square deviation (RMSD), a common quantitative standard statistical performance evaluation measure, and calculation of successful rate with a tolerance. The results show that the second technique performs better than the first. Moreover, when applying the techniques, stochastic gradient decent (SGD) can be used to generate the geometry during the measurement, which makes the techniques more applicable. However, limitations of SGD in this case are also discussed.
+
+## Image Preview
+<img src="/cont/research/img/thermography-a-big-data-problem-1.PNG" height=100>
+
+## Link to Full Text
+- [https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/thermography-a-big-data-problem.pdf](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/thermography-a-big-data-problem.pdf)
