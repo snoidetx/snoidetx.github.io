@@ -1,4 +1,4 @@
-|    **[Home](https://snoidetx.github.io)**    |  **[Research](https://snoidetx.github.io/research)**  |  **[Resource](https://snoidetx.github.io/resource)**  |
+|  **[Home](https://snoidetx.github.io)**  |  **[Research](https://snoidetx.github.io/research)**  |  **[Resource](https://snoidetx.github.io/resource)**  |
 
 (65) 8510 6059 • tianxiao02@u.nus.edu • [LinkedIn](https://www.linkedin.com/in/tian-xiao-1202/) • [Github](https://github.com/snoidetx/)    
 
