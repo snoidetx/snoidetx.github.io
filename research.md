@@ -1,8 +1,11 @@
-# My Research
+| [Home](https://snoidetx.github.io) | [Research](https://snoidetx.github.io/research) | [Resource](https://snoidetx.github.io/resource) |
+|    :----:   |    :----:   |    :----:   |  
+
 8510 6059 • tianxiao02@u.nus.edu • [linkedin.com/in/tian-xiao-1202/](https://www.linkedin.com/in/tian-xiao-1202/)  
-- [Home](https://snoidetx.github.io)
-- [Research](https://snoidetx.github.io/research)
-- [Resource](https://snoidetx.github.io/resource)
+
+# My Research
+
+----
 
 Here are the research projects that I have done before. Please contact me via email should there be any further enquiries.
 
