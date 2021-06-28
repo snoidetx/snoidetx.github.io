@@ -1,11 +1,12 @@
-| [Home](https://snoidetx.github.io) | [Research](https://snoidetx.github.io/research) | [Resource](https://snoidetx.github.io/resource) |
-|    :----:   |    :----:   |    :----:   |  
+|  [Home](https://snoidetx.github.io)  |  [Research](https://snoidetx.github.io/research)  |  [Resource](https://snoidetx.github.io/resource)  |
 
-8510 6059 • tianxiao02@u.nus.edu • [linkedin.com/in/tian-xiao-1202/](https://www.linkedin.com/in/tian-xiao-1202/)  
+(65) 8510 6059 • tianxiao02@u.nus.edu • [linkedin.com/in/tian-xiao-1202/](https://www.linkedin.com/in/tian-xiao-1202/) • [github.com/snoidetx/](https://github.com/snoidetx/)  
+
+---
 
 # My Resource
 
-----
+---
 
 Here are some NUS module resource I collated by myself. Enjoy!
 
