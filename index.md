@@ -10,8 +10,8 @@
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
-### Bachelor of Science
-- Applied Mathematics (Major) with Computer Science (Second Major)
+### Bachelor of Science and Bachelor of Computing
+- Applied Mathematics and Computer Science (Double Degree)
 - Science & Technology Undergraduate Merit Scholarship
 - Expected Date of Graduation: May 2024
 - CAP: 5.0/5.0
