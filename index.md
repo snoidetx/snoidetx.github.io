@@ -49,6 +49,9 @@
 ## Northeast Yucai School (Sep 2011 - Oct 2015)
 
 # Work and Internship Experiences
+## National University of Singapore, Teaching Assistant (Aug 2020 - Present)
+- Led laboratory sessions for CS2040S Data Structures and Algorithms to teach undergraduate students and mark their assignments
+
 ## Agency for Science, Technology and Research, Researcher (Mar 2018 - Feb 2019)
 - Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios
 - Computed Python algorithms to determine correlations within large datasets retrieved from Lock-in Thermography Technique
