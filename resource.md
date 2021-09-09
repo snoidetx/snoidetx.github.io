@@ -12,10 +12,11 @@ Here are some NUS module resource I collated by myself. Enjoy!
 
 # Module Forecast
 - CS2100 Computer Organisation
+- GEH1036 Living with Mathematics
 - MA2101 Linear Algebra II
 - MA2108 Mathematical Analysis I
+- MA2213 Numerical Analysis I
 - MA2214 Combinatorics and Graphs I
-- ST2132 Mathematical Statistics
 
 # Mathematics
 ## MA1101R Linear Algebra I
