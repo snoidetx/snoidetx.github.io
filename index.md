@@ -5,6 +5,7 @@
 ---
 
 # About Me
+[Click to view my resume!]()
 
 ---
 
@@ -17,13 +18,20 @@
 - CAP: 5.0/5.0
 
 ### Relevant Modules Taken
-- CS1010S Programming Methodology
-- CS1231 Discrete Structures
-- CS2040 Data Structures and Algorithms
-- MA1101R Linear Algebra I
-- MA1102R Calculus
-- MA2104 Multivariable Calculus
-- ST2131 Probability
+- Calculus
+- Career Catalyst
+-	Combinatorics and Graphs
+-	Computer Organisation
+-	Data Structures and Algorithms
+-	Discrete Structures
+-	Linear Algebra
+-	Mathematical Analysis
+-	Numerical Analysis
+-	Probability
+-	Professional and Academic Communication
+-	Programming Methodology
+-	Workplace Readiness
+
 
 ## National Junior College (Jan 2018 - Dec 2019)
 ### Singapore Cambridge GCE A-Level Certificate
@@ -50,7 +58,8 @@
 
 # Work and Internship Experiences
 ## National University of Singapore, Teaching Assistant (Aug 2020 - Present)
-- Led laboratory sessions for CS2040S Data Structures and Algorithms to teach undergraduate students and mark their assignments
+- Assisted professors in preparing and facilitating teaching of module CS2040, a course to equip students with knowledge on basic data structures and algorithms in computing
+-	Supervised weekly laboratory sessions for students to get hands-on experience on using certain data structures and algorithms and marked their assignments
 
 ## Agency for Science, Technology and Research, Researcher (Mar 2018 - Feb 2019)
 - Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios
@@ -59,6 +68,10 @@
 
 # Co-curricular Activities and Volunteer Experiences
 ## NUS Mathematics Society, Publicity Director (May 2021 - Present)
+-	Managed all publicity matters of NUS Mathematics Society to increase its uptake and improve its impact in order to benefit student community
+-	Publicised NUS Mathematics Society in Orientation Camp and Student Life Fair via multiple social media platforms that recruited and retained around 120 members in total
+-	Bridged communication on career information between around 1500 students, school departments and companies 
+
 ## Peer Mentorship Programme, Chairperson (Nov 2018 - Aug 2019)
 - Organised and chaired Peer Mentorship Programme to tutor disadvantaged children at Kebun Baru Community Centre
 - Conducted mentoring sessions and facilitated talent development workshops for 50 children
@@ -80,5 +93,5 @@
 
 # Additional Information
 - **Languages:** English (Proficient), Mandarin (Native)
-- **IT Skills:** Programming Languages (C, CSS, HTML, Java, JavaScript, Python), Productive Softwares (Adobe Flash, Adobe Photoshop, Adobe Audition, Studio One), Social Media (Instagram, Facebook)
-- **Interests:** Basketball, Music
+- **IT Skills:** Programming Languages (Java, Python, C, JavaScript, HTML, CSS), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One), Social Media (Instagram, Facebook)
+- **Interests:** Basketball, Music, Fine Arts
