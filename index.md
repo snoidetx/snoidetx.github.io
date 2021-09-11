@@ -5,7 +5,7 @@
 ---
 
 # About Me
-[Click to view my resume!]()
+[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/TianXiao_Resume.pdf)
 
 ---
 
