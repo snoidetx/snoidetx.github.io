@@ -26,6 +26,9 @@ Here are some NUS module resource I collated by myself. Enjoy!
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-Notes.pdf)
 - [SageMath Commands](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-SagemathCommands.pdf)
 
+## MA2101 Linear Algebra II
+- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2101-MidtermExaminationCheatsheet.pdf)
+
 ## MA2104 Multivariable Calculus
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2104-Notes.pdf)
 
