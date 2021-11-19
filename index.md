@@ -58,7 +58,11 @@
 ## Northeast Yucai School (Sep 2011 - Oct 2015)
 
 # Work and Internship Experiences
-## National University of Singapore, Teaching Assistant (Aug 2020 - Present)
+## Learnseeker, Education Strategist & Creator (Oct 2021 - Present)
+- Facilitated the operation of LearnSeeker, an AI data visualisation and automatic grading tool for schools
+- Managed the classification and curation of education resources
+
+## National University of Singapore, Teaching Assistant (Aug 2021 - Present)
 - Assisted professors in preparing and facilitating teaching of module CS2040, a course to equip students with knowledge on basic data structures and algorithms in computing
 -	Supervised weekly laboratory sessions for students to get hands-on experience on using certain data structures and algorithms and marked their assignments
 
@@ -72,6 +76,9 @@
 -	Managed all publicity matters of NUS Mathematics Society to increase its uptake and improve its impact in order to benefit student community
 -	Publicised NUS Mathematics Society in Orientation Camp and Student Life Fair via multiple social media platforms that recruited and retained around 120 members in total
 -	Bridged communication on career information between around 1500 students, school departments and companies 
+
+## Teach SG NUS, Academic Coach (Aug 2021 - October 2021)
+- Provided academic coaching and mentoring to children and youth from lower-income families as part of Teach Mo' Learn Mo' project under Teach SG NUS
 
 ## Peer Mentorship Programme, Chairperson (Nov 2018 - Aug 2019)
 - Organised and chaired Peer Mentorship Programme to tutor disadvantaged children at Kebun Baru Community Centre
