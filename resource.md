@@ -11,7 +11,6 @@
 Here are some NUS module resource I collated by myself. Enjoy!
 
 # Module Forecast
-- CS2100 Computer Organisation
 - GEH1036 Living with Mathematics
 - MA2101 Linear Algebra II
 - MA2108 Mathematical Analysis I
@@ -48,6 +47,9 @@ Here are some NUS module resource I collated by myself. Enjoy!
 ## CS2040 Data Structures and Algorithms
 - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-FinalExaminationCheatsheet.pdf)
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-Notes.pdf)
+
+## CS2100 Computer Organisation
+- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf)
 
 # Others
 ## GEQ1917 Understanding and Critiquing Sustainability
