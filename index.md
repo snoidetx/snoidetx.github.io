@@ -8,7 +8,7 @@
 
 ---
 
-[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/TianXiao_Resume.pdf)
+[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) (as updated on 09/01/2022)
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
@@ -16,21 +16,32 @@
 - Applied Mathematics and Computer Science (Double Degree)
 - Science & Technology Undergraduate Merit Scholarship
 - Expected Date of Graduation: May 2024
-- CAP: 5.0/5.0
+- CAP (Applied Mathematics): 4.96/5.00
+- CAP (Computer Science): 5.00/5.00
+
+### Awards and Honours
+- Dean's List, Bachelor of Computing (Computer Science), AY2021/22 Semester 1
+- Dean's List, Bachelor of Science, AY2021/22 Semester 1
+- Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1
+- Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1
 
 ### Relevant Modules Taken
+- Artificial Intelligence
 - Calculus
 - Career Catalyst
 -	Combinatorics and Graphs
 -	Computer Organisation
 -	Data Structures and Algorithms
+-	Design and Analysis of Algorithms
 -	Discrete Structures
 -	Linear Algebra
+-	Machine Learning
 -	Mathematical Analysis
 -	Numerical Analysis
 -	Probability
 -	Professional and Academic Communication
 -	Programming Methodology
+-	Regression Analysis
 -	Workplace Readiness
 
 
@@ -58,13 +69,18 @@
 ## Northeast Yucai School (Sep 2011 - Oct 2015)
 
 # Work and Internship Experiences
-## Learnseeker, Education Strategist & Creator (Oct 2021 - Present)
-- Facilitated the operation of LearnSeeker, an AI data visualisation and automatic grading tool for schools
-- Managed the classification and curation of education resources
+## National University of Singapore, Teaching Assistant (CS2030) (Jan 2022 - Present)
+- Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students
+- Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks
 
-## National University of Singapore, Teaching Assistant (Aug 2021 - Present)
-- Assisted professors in preparing and facilitating teaching of module CS2040, a course to equip students with knowledge on basic data structures and algorithms in computing
--	Supervised weekly laboratory sessions for students to get hands-on experience on using certain data structures and algorithms and marked their assignments
+## National University of Singapore, Teaching Assistant (CS2040/S) (Aug 2021 - Present)
+- Assisted professors in preparing and facilitating teaching of module CS2040/S Data Structures and Algorithms, a course to equip students with knowledge on basic data structures and algorithms in computing using Java involving more than 450 students
+-	Developed class materials and conducted weekly laboratory sessions for students to reinforce conceptual knowledge and get hands-on experience on using certain data structures and algorithms and marked their assignments
+
+## Learnseeker, Education Strategist & Creator (Oct 2021 - Jan 2022)
+- Facilitated the operation of LearnSeeker, an AI data visualisation and automatic grading tool for schools
+- Created digital education resources
+- Managed the classification and curation of education resources
 
 ## Agency for Science, Technology and Research, Researcher (Mar 2018 - Feb 2019)
 - Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios
@@ -77,8 +93,8 @@
 -	Publicised NUS Mathematics Society in Orientation Camp and Student Life Fair via multiple social media platforms that recruited and retained around 120 members in total
 -	Bridged communication on career information between around 1500 students, school departments and companies 
 
-## Teach SG NUS, Academic Coach (Aug 2021 - October 2021)
-- Provided academic coaching and mentoring to children and youth from lower-income families as part of Teach Mo' Learn Mo' project under Teach SG NUS
+## NUS Teach Singapore, Academic Coach (Aug 2021 - December 2021)
+- Provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme, as a member of NUS Teach Singapore initiative
 
 ## Peer Mentorship Programme, Chairperson (Nov 2018 - Aug 2019)
 - Organised and chaired Peer Mentorship Programme to tutor disadvantaged children at Kebun Baru Community Centre
