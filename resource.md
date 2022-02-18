@@ -8,14 +8,15 @@
 
 ---
 
-Here are some NUS module resource I collated by myself. Enjoy!
+Here are some NUS module resource I collated by myself. Enjoy! (as updated on 18/02/2022)
 
 # Module Forecast
-- GEH1036 Living with Mathematics
-- MA2101 Linear Algebra II
-- MA2108 Mathematical Analysis I
-- MA2213 Numerical Analysis I
-- MA2214 Combinatorics and Graphs I
+- CS2106 Introduction to Operating Systems
+- CS3230 Design and Analysis of Algorithms
+- CS3243 Introduction to Artifical Intelligence
+- CS3244 Machine Learning
+- GET1018 The Mathematics of Games
+- ST3131 Regression Analysis
 
 # Mathematics
 ## MA1101R Linear Algebra I
@@ -31,6 +32,16 @@ Here are some NUS module resource I collated by myself. Enjoy!
 ## MA2104 Multivariable Calculus
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2104-Notes.pdf)
 
+## MA2108 Mathematical Analysis I
+- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2108-Notes.pdf)
+
+## MA2213 Numerical Analysis I
+- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2213-FinalExaminationCheatsheet.pdf)
+
+## MA2214 Combinatorics and Graphs I
+- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-MidtermCheatsheet.pdf)
+- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-FinalExaminationCheatsheet.pdf)
+
 ## ST2131 Probability
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf)
 
@@ -44,6 +55,9 @@ Here are some NUS module resource I collated by myself. Enjoy!
 - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-FinalExaminationCheatsheet.pdf)
 - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-MidtermExaminationCheatsheet.pdf)
 
+## CS2030 Programming Methodology II
+- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2030-FinalExaminationCheatsheet.pdf)
+
 ## CS2040 Data Structures and Algorithms
 - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-FinalExaminationCheatsheet.pdf)
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-Notes.pdf)
@@ -52,5 +66,8 @@ Here are some NUS module resource I collated by myself. Enjoy!
 - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf)
 
 # Others
+## Singapore GCE A-Level Examination
+
 ## GEQ1917 Understanding and Critiquing Sustainability
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-GEQ1917-Notes.pdf)
+
