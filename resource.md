@@ -67,6 +67,7 @@ Here are some NUS module resource I collated by myself. Enjoy! (as updated on 18
 
 # Others
 ## Singapore GCE A-Level Examination
+- [All Resources](https://drive.google.com/drive/folders/1SrMToej7x-w6UVUccWw_QfqkrUYAWwjX?usp=sharing)
 
 ## GEQ1917 Understanding and Critiquing Sustainability
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-GEQ1917-Notes.pdf)
