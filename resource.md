@@ -8,7 +8,7 @@
 
 ---
 
-Here are some NUS module resource I collated by myself. Enjoy! (as updated on 18/02/2022)
+Here are some NUS module resource I collated by myself. Enjoy! (as updated on 27/02/2022)
 
 # Module Forecast
 - [ ] CS2106 Introduction to Operating Systems
