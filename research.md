@@ -8,7 +8,7 @@
 
 ---
 
-Here are the research projects that I have done before. Please contact me via email should there be any further enquiries.
+Here are the research projects that I have done before. Please contact me via email should there be any further enquiries. (as updated on 27/02/2022)
 
 # Somatropin and Growth Hormone Deficiency, 2021
 
