@@ -11,12 +11,12 @@
 Here are some NUS module resource I collated by myself. Enjoy! (as updated on 27/02/2022)
 
 # Module Forecast
-- [ ] CS2106 Introduction to Operating Systems
-- [ ] CS3230 Design and Analysis of Algorithms
-- [x] CS3243 Introduction to Artifical Intelligence
-- [ ] CS3244 Machine Learning
-- [ ] GET1018 The Mathematics of Games
-- [ ] ST3131 Regression Analysis
+- CS2106 Introduction to Operating Systems
+- CS3230 Design and Analysis of Algorithms
+- CS3243 Introduction to Artifical Intelligence
+- CS3244 Machine Learning
+- GET1018 The Mathematics of Games
+- ST3131 Regression Analysis
 
 # Mathematics
 ## MA1101R Linear Algebra I
