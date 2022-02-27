@@ -11,12 +11,12 @@
 Here are some NUS module resource I collated by myself. Enjoy! (as updated on 18/02/2022)
 
 # Module Forecast
-- CS2106 Introduction to Operating Systems
-- CS3230 Design and Analysis of Algorithms
-- CS3243 Introduction to Artifical Intelligence
-- CS3244 Machine Learning
-- GET1018 The Mathematics of Games
-- ST3131 Regression Analysis
+- [ ] CS2106 Introduction to Operating Systems
+- [ ] CS3230 Design and Analysis of Algorithms
+- [x] CS3243 Introduction to Artifical Intelligence
+- [ ] CS3244 Machine Learning
+- [ ] GET1018 The Mathematics of Games
+- [ ] ST3131 Regression Analysis
 
 # Mathematics
 ## MA1101R Linear Algebra I
@@ -64,6 +64,9 @@ Here are some NUS module resource I collated by myself. Enjoy! (as updated on 18
 
 ## CS2100 Computer Organisation
 - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf)
+
+## CS3243 Introduction to Artificial Intelligence
+- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf)
 
 # Others
 ## Singapore GCE A-Level Examination
