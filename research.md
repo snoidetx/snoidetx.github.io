@@ -11,6 +11,9 @@
 Here are the research projects that I have done before. Please contact me via email should there be any further enquiries.
 
 # Somatropin and Growth Hormone Deficiency, 2021
+
+Special credit to Dr Mok for his patience and empathy along the way! 
+
 ## Abstract
 Somatropin is a type of drug used to complement natural somatotropin secreted by human pituitary gland in treating growth hormone deficiency. Its working mechanism is identical to somatotropin - binding to somatotropin receptors, activation of receptors and therefore activation of two signaling pathways, namely JAK-STAT pathway and MAPK pathway. Somatropin is conventionally produced through recombinant DNA technology, which is time-consuming and requires daily administration. More advanced techniques have been developed to improve such drawbacks.
 
