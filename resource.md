@@ -91,7 +91,7 @@ Special credit to Mr. Nathan for his guidance along the way with his wisdom!
 - [Education](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-Education.pdf)
 - [Education - Cases for Buddist Studies and Humanities](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-EducationCasesForBuddistStudiesHumanities.png)
 - [Social Experiment - Milgram and Stanford Prison](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-MilgramStanfordPrison.pdf)
-- [Social Experiment - Mouse Utopia](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-MouseUtopia.pdf)
+- [Social Experiment - Mouse Utopia](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-MouseUtopia.png)
 - [Stress and Pace of Life](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-StressPaceOfLife.pdf)
 
 ### Essay Skills
