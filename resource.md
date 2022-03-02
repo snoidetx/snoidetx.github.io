@@ -8,7 +8,7 @@
 
 ---
 
-Here are some NUS module resource I collated by myself. Enjoy! (as updated on 27/02/2022)
+Here are some NUS module resource I collated by myself. Enjoy! (as updated on 03/03/2022)
 
 # Module Forecast
 - CS2106 Introduction to Operating Systems
@@ -64,6 +64,9 @@ Here are some NUS module resource I collated by myself. Enjoy! (as updated on 27
 
 ## CS2100 Computer Organisation
 - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf)
+
+## CS3230 Design and Analysis of Algorithms
+- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf)
 
 ## CS3243 Introduction to Artificial Intelligence
 - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf)
