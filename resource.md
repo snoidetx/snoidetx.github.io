@@ -19,34 +19,18 @@ Here are some NUS module resource I collated by myself. Enjoy! (*updated on 04/0
 - ST3131 Regression Analysis
 
 # Mathematics
-## MA1101R Linear Algebra I
-- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1101R-Notes.pdf)
 
-## MA1102R Calculus
-- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-Notes.pdf)
-- [SageMath Commands](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-SagemathCommands.pdf)
-
-## MA2101 Linear Algebra II
-- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2101-MidtermExaminationCheatsheet.pdf)
-
-## MA2104 Multivariable Calculus
-- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2104-Notes.pdf)
-
-## MA2108 Mathematical Analysis I
-- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2108-Notes.pdf)
-
-## MA2213 Numerical Analysis I
-- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2213-FinalExaminationCheatsheet.pdf)
-
-## MA2214 Combinatorics and Graphs I
-- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-FinalExaminationCheatsheet.pdf)
-- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-MidtermCheatsheet.pdf)
-
-## ST2131 Probability
-- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf)
-
-## ST3131 Regression Analysis
-- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf)
+| Module | Resource |
+| --- | --- |
+| **MA1101R Linear Algebra I** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1101R-Notes.pdf) |
+| **MA1102R Calculus** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-Notes.pdf)<br>- [SageMath Commands](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-SagemathCommands.pdf) |
+| **MA2101 Linear Algebra II** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2101-MidtermExaminationCheatsheet.pdf) |
+| **MA2104 Multivariable Calculus** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2104-Notes.pdf) |
+| **MA2108 Mathematical Analysis I** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2108-Notes.pdf) |
+| **MA2213 Numerical Analysis I** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2213-FinalExaminationCheatsheet.pdf) |
+| **MA2214 Combinatorics and Graphs I** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-MidtermCheatsheet.pdf) |
+| **ST2131 Probability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf) |
+| **ST3131 Regression Analysis** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) 
 
 # Computer Science
 ## CS1010S Programming Methodology
