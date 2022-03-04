@@ -8,7 +8,7 @@
 
 ---
 
-[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) (as updated on 09/01/2022)
+[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) (*updated on 04/03/2022*)
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
