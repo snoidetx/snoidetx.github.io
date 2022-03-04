@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-
 title: TIAN XIAO
-
 description: National University of Singapore
-
 logo: /img/logo.png
+
+stylesheets:
+  all:
+    - css/style.css
