@@ -20,7 +20,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 # Mathematics
 
-| Module | Resources |
+| <div style="width:400px">Module</div> | Resources |
 | --- | --- |
 | **MA1101R Linear Algebra I** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1101R-Notes.pdf) |
 | **MA1102R Calculus** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-Notes.pdf)<br>- [SageMath Commands](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-SagemathCommands.pdf) |
