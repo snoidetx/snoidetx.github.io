@@ -8,7 +8,7 @@
 
 ---
 
-Here are some NUS module resource I collated by myself. Enjoy! (as updated on 03/03/2022)
+Here are some NUS module resource I collated by myself. Enjoy! (*updated on 04/03/2022*)
 
 # Module Forecast
 - CS2106 Introduction to Operating Systems
@@ -44,6 +44,9 @@ Here are some NUS module resource I collated by myself. Enjoy! (as updated on 03
 
 ## ST2131 Probability
 - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf)
+
+## ST3131 Regression Analysis
+- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf)
 
 # Computer Science
 ## CS1010S Programming Methodology
