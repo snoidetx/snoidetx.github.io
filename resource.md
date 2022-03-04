@@ -20,7 +20,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 # Mathematics
 
-| <span style="display:inline-block; width:50%">Module</span> | <span style="display:inline-block; width:50%">Resources</span> |
+| Module | Resources |
 | --- | --- |
 | **MA1101R Linear Algebra I** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1101R-Notes.pdf) |
 | **MA1102R Calculus** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-Notes.pdf)<br>- [SageMath Commands](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-SagemathCommands.pdf) |
@@ -36,7 +36,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 # Computer Science
 
-| <span style="display:inline-block; width:50%">Module</span> | <span style="display:inline-block; width:50%">Resources</span> |
+| Module | Resources |
 | --- | --- |
 | **CS1010S Programming Methodology** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-FinalExaminationCheatsheet.pdf)<br>- [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-MidtermExaminationCheatsheet.pdf)<br>- [Order of Growth Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-OrderOfGrowthNotes.pdf) |
 | **CS1231 Discrete Structures** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-FinalExaminationCheatsheet.pdf)<br>- [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-MidtermExaminationCheatsheet.pdf) |
@@ -50,7 +50,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 # Others
 
-| <span style="display:inline-block; width:50%">Module</span> | <span style="display:inline-block; width:50%">Resources</span> |
+| Module | Resources |
 | --- | --- |
 | **GEQ1917 Understanding and Critiquing Sustainability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-GEQ1917-Notes.pdf) |
 
@@ -62,7 +62,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 Here are some Singapore-Cambridge GCE A-Level resources I collated by myself. Enjoy!
 
-| <span style="display:inline-block; width:50%">Subject</span> | <span style="display:inline-block; width:50%">Resources</span> |
+| Subject | Resources |
 | --- | --- |
 | **H1 General Paper** | Special credit to Mr Nathan for his guidance along the way with his wisdom!<br><br>**Essay Resource**<br><br>- [Aborigines in Australia](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-AboriginesInAustralia.png)<br>- [Art](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-Art.pdf)<br>- [Causes of Poverty](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/CausesOfPoverty.png)<br>- [Crises in The World](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-CrisesInTheWorld.pdf)<br>- [Economics Data](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-EconomicsData.png)<br>- [Education](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-Education.pdf)<br>- [Education - Cases for Buddist Studies and Humanities](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-EducationCasesForBuddistStudiesHumanities.png)<br>- [Social Experiment - Milgram and Stanford Prison](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-MilgramStanfordPrison.pdf)<br>- [Social Experiment - Mouse Utopia](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-MouseUtopia.png)<br>- [Stress and Pace of Life](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-StressPaceOfLife.pdf)<br><br>**Essay Skills**<br><br>- [Argumentation Stances](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-ArgumentationStances.pdf)<br>- [Essay Structure](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-EssayStructure.pdf)<br>- [Essay and AP Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-EssayApNotes.pdf)<br>- [Mental Models](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2GeneralPaper-MentalModels.pdf) |
 | **H2 Economics** | - [Micro Economics Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Economics-MicroEconomicsNotes.pdf)<br>- [Macro Economics Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Economics-MacroEconomicsNotes.pdf) |
