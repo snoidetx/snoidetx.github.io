@@ -24,13 +24,13 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 | --- | --- |
 | **MA1101R Linear Algebra I** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1101R-Notes.pdf) |
 | **MA1102R Calculus** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-Notes.pdf)<br>- [SageMath Commands](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA1102R-SagemathCommands.pdf) |
-| **MA2101 Linear Algebra II** | - [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2101-MidtermExaminationCheatsheet.pdf) |
+| **MA2101 Linear Algebra II** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2101-MidtermExaminationCheatsheet.pdf) |
 | **MA2104 Multivariable Calculus** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2104-Notes.pdf) |
 | **MA2108 Mathematical Analysis I** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2108-Notes.pdf) |
-| **MA2213 Numerical Analysis I** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2213-FinalExaminationCheatsheet.pdf) |
-| **MA2214 Combinatorics and Graphs I** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-FinalExaminationCheatsheet.pdf)<br>- [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-MidtermCheatsheet.pdf) |
+| **MA2213 Numerical Analysis I** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2213-FinalExaminationCheatsheet.pdf) |
+| **MA2214 Combinatorics and Graphs I** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-MidtermCheatsheet.pdf) |
 | **ST2131 Probability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf) |
-| **ST3131 Regression Analysis** | - [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
+| **ST3131 Regression Analysis** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
 
 <br>
 
@@ -38,13 +38,13 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 | Module | Resources |
 | --- | --- |
-| **CS1010S Programming Methodology** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-FinalExaminationCheatsheet.pdf)<br>- [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-MidtermExaminationCheatsheet.pdf)<br>- [Order of Growth Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-OrderOfGrowthNotes.pdf) |
-| **CS1231 Discrete Structures** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-FinalExaminationCheatsheet.pdf)<br>- [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-MidtermExaminationCheatsheet.pdf) |
-| **CS2030 Programming Methodology II** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2030-FinalExaminationCheatsheet.pdf) |
-| **CS2040 Data Structures and Algorithms** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-FinalExaminationCheatsheet.pdf)<br>- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-Notes.pdf) |
-| **CS2100 Computer Organisation** | - [Final Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf) |
-| **CS3230 Design and Analysis of Algorithms** | - [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
-| **CS3243 Introduction to Artificial Intelligence** | - [Midterm Exam Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
+| **CS1010S Programming Methodology** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-MidtermExaminationCheatsheet.pdf)<br>- [Order of Growth Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1010S-OrderOfGrowthNotes.pdf) |
+| **CS1231 Discrete Structures** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS1231-MidtermExaminationCheatsheet.pdf) |
+| **CS2030 Programming Methodology II** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2030-FinalExaminationCheatsheet.pdf) |
+| **CS2040 Data Structures and Algorithms** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-FinalExaminationCheatsheet.pdf)<br>- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-Notes.pdf) |
+| **CS2100 Computer Organisation** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf) |
+| **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
+| **CS3243 Introduction to Artificial Intelligence** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 
 <br>
 
