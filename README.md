@@ -16,14 +16,14 @@ You can switch between sections by clicking the three tabs at the top of the pag
 Lists my past academic, work and non-academic experience. In other words, it is my portfolio.
 
 * **View my resume:** Click the *Click to view my resume!* link at the top of the page:
-![View My Resume](img/view_resume.png)
+<img src="img/view_resume.png" style="max-height:50px">
 
 ### Section: *Research*
 
 Lists my past research done, including their abstracts, image previews and links to text.
 
 * **View full text:** Click the link under the *Link to Full Text* subsections:
-<img src="/img/link_to_text.png" height=150>
+<img src="/img/link_to_text.png" style="max-height:50px">
 
 ### Section: *Resource*
 
@@ -31,6 +31,6 @@ Lists the academic resources prepared by myself, including those in National Uni
 
 * **View resources that are coming soon:** Scroll to the *Module Forecast* section. The modules listed here represent those I am probably preparing resources for.
 * **Access resources:** For each category of modules/subjects, there is a table consisting of two columns - name and resources (refering to the image below). To access the resources of a module/subject, navigate to the module/subject name and click the link of the resources you want to look at on the second column.
-<img src="/img/resource.png" height=250>
+<img src="/img/resource.png" style="max-height:250px">
 
 Roger!
