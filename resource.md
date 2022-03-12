@@ -43,6 +43,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 | **CS2030 Programming Methodology II** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2030-FinalExaminationCheatsheet.pdf) |
 | **CS2040 Data Structures and Algorithms** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-FinalExaminationCheatsheet.pdf)<br>- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-Notes.pdf) |
 | **CS2100 Computer Organisation** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf) |
+| **CS2106 Introduction to Operating Systems** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2106-MidtermExaminationCheatsheet.pdf) |
 | **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
 | **CS3243 Introduction to Artificial Intelligence** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244 Machine Learning** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
