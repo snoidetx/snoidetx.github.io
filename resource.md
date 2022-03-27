@@ -10,6 +10,8 @@
 
 Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/03/2022*)
 
+---
+
 ## Module Forecast
 ```
 - CS2106 Introduction to Operating Systems
@@ -19,6 +21,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/
 - GET1018 The Mathematics of Games
 - ST3131 Regression Analysis
 ```
+
+---
 
 ## Mathematics
 
@@ -34,6 +38,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/
 | **ST2131 Probability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf) |
 | **ST3131 Regression Analysis** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
 
+---
+
 ## Computer Science
 
 | Module | Resources |
@@ -47,6 +53,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/
 | **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
 | **CS3243 Introduction to Artificial Intelligence** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244 Machine Learning** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
+
+---
 
 ## Others
 
@@ -71,5 +79,7 @@ Here are some Singapore-Cambridge GCE A-Level resources I collated by myself. En
 | **H2 Physics** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-Notes.pdf)<br>- [Practical Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-PracticalNotes.pdf)<br><br>**Revision Notes**<br><br>- [Electric Field](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-ElectricFieldRevisionNotes.pdf)<br>- [Electromagnetic Induction](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-ElectromagneticInductionRevisionNotes.pdf)<br>- [Gravitation Field VS Electric Field](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-GravitationalFieldVsElectricFieldRevisionNotes.pdf)<br>- [Nuclear Physics](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-NuclearPhysicsRevisionNotes.pdf)<br>- [Quantum Physics - Wave-Particle Duality](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-QuantumPhysicsWaveParticleDualityRevisionNotes.pdf)<br>- [Quantum Physics - Photoelectric Effect](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-PhotoelectricEffectRevisionNotes.pdf)<br>- [Simple Harmonic Motion](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-SimpleHarmonicMotionRevisionNotes.pdf)<br>- [Superposition](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-SuperpositionRevisionNotes.pdf)<br>- [Thermal Physics](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/ALevel-H2Physics-ThermalPhysicsRevisionNotes.pdf) |
 
 <br>
+
+---
 
 All resources displayed in this page are produced by &copy;snoidetx. Please credit for reuse.
