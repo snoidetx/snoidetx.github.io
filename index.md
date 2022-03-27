@@ -8,7 +8,7 @@
 
 ---
 
-[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) (*updated on 04/03/2022*)
+[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) (*updated on 28/03/2022*)
 
 # Education
 ## National University of Singapore (Aug 2020 - Present)
@@ -68,6 +68,8 @@
 
 ## Northeast Yucai School (Sep 2011 - Oct 2015)
 
+---
+
 # Work and Internship Experiences
 ## National University of Singapore, Teaching Assistant (CS2030) (Jan 2022 - Present)
 - Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students
@@ -86,6 +88,8 @@
 - Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios
 - Computed Python algorithms to determine correlations within large datasets retrieved from Lock-in Thermography Technique
 - Collaborated with colleagues to predict general trends beyond pre-engineered prototypes
+
+---
 
 # Co-curricular Activities and Volunteer Experiences
 ## NUS Mathematics Society, Publicity Director (May 2021 - Present)
@@ -114,6 +118,8 @@
 ## School Chinese Drama, Student Director (Jan 2016 - June 2017)
 - Directed drama shows and supervised script-writing, trainings and performances
 - Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - JC
+
+---
 
 # Additional Information
 - **Languages:** English (Proficient), Mandarin (Native)
