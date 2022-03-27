@@ -8,9 +8,9 @@
 
 ---
 
-Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/03/2022*)
+Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/03/2022*)
 
-# Module Forecast
+## Module Forecast
 - CS2106 Introduction to Operating Systems
 - CS3230 Design and Analysis of Algorithms
 - CS3243 Introduction to Artifical Intelligence
@@ -18,7 +18,9 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 - GET1018 The Mathematics of Games
 - ST3131 Regression Analysis
 
-# Mathematics
+<br>
+
+## Mathematics
 
 | Module | Resources |
 | --- | --- |
@@ -34,7 +36,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 <br>
 
-# Computer Science
+## Computer Science
 
 | Module | Resources |
 | --- | --- |
@@ -48,10 +50,9 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 | **CS3243 Introduction to Artificial Intelligence** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244 Machine Learning** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
 
-
 <br>
 
-# Others
+## Others
 
 | Module | Resources |
 | --- | --- |
@@ -61,7 +62,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 04/
 
 ---
 
-# Singapore-Cambridge GCE A-Level Examination
+## Singapore-Cambridge GCE A-Level Examination
 
 Here are some Singapore-Cambridge GCE A-Level resources I collated by myself. Enjoy!
 
