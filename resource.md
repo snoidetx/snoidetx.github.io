@@ -11,14 +11,14 @@
 Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/03/2022*)
 
 ## Module Forecast
+```
 - CS2106 Introduction to Operating Systems
 - CS3230 Design and Analysis of Algorithms
 - CS3243 Introduction to Artifical Intelligence
 - CS3244 Machine Learning
 - GET1018 The Mathematics of Games
 - ST3131 Regression Analysis
-
-<br>
+```
 
 ## Mathematics
 
@@ -34,8 +34,6 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/
 | **ST2131 Probability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf) |
 | **ST3131 Regression Analysis** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
 
-<br>
-
 ## Computer Science
 
 | Module | Resources |
@@ -49,8 +47,6 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 28/
 | **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
 | **CS3243 Introduction to Artificial Intelligence** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244 Machine Learning** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
-
-<br>
 
 ## Others
 
