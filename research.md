@@ -8,7 +8,7 @@
 
 ---
 
-Here are the research projects that I have done before. Please contact me via email should there be any further enquiries. (*updated on 28/03/2022*)
+Here are the research projects that I have done before. Please contact me via email should there be any further enquiries. (*updated on 20/04/2022*)
 
 ---
 
