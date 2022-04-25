@@ -49,8 +49,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 25/
 | **CS2100 Computer Organisation** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf) |
 | **CS2106 Introduction to Operating Systems** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2106-MidtermExaminationCheatsheet.pdf) |
 | **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
-| **CS3243 Introduction to Artificial Intelligence** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf)<br>- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-FinalExaminationCheatsheet.pdf) |
-| **CS3244 Machine Learning** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf)<br>- [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-FinalExaminationCheatsheet.pdf) |
+| **CS3243 Introduction to Artificial Intelligence** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
+| **CS3244 Machine Learning** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
 
 ---
 
