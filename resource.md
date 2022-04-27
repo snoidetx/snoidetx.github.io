@@ -8,7 +8,7 @@
 
 ---
 
-Here are some NUS module resources I collated by myself. Enjoy! (*updated on 25/04/2022*)
+Here are some NUS module resources I collated by myself. Enjoy! (*updated on 27/04/2022*)
 
 ---
 
@@ -34,7 +34,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 25/
 | **MA2213 Numerical Analysis I** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2213-FinalExaminationCheatsheet.pdf) |
 | **MA2214 Combinatorics and Graphs I** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-MA2214-MidtermCheatsheet.pdf) |
 | **ST2131 Probability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf) |
-| **ST3131 Regression Analysis** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
+| **ST3131 Regression Analysis** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
 
 ---
 
