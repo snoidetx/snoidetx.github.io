@@ -40,10 +40,12 @@
 -	Machine Learning
 -	Mathematical Analysis
 -	Numerical Analysis
+-	Operating Systems
 -	Probability
 -	Professional and Academic Communication
 -	Programming Methodology
 -	Regression Analysis
+-	Software Engineering
 -	Workplace Readiness
 
 
