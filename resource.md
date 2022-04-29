@@ -16,7 +16,6 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 29/
 ```
 - CS3230 Design and Analysis of Algorithms
 - GET1018 The Mathematics of Games
-- ST3131 Regression Analysis
 ```
 
 ---
