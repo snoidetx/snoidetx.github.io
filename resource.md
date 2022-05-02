@@ -8,7 +8,7 @@
 
 ---
 
-Here are some NUS module resources I collated by myself. Enjoy! (*updated on 29/04/2022*)
+Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/05/2022*)
 
 ---
 
@@ -45,6 +45,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 29/
 | **CS2030 Programming Methodology II** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2030-FinalExaminationCheatsheet.pdf)<br>- [Practical Assessment 2 Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2030-PracticalAssessment2Cheatsheet.pdf) |
 | **CS2040 Data Structures and Algorithms** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-FinalExaminationCheatsheet.pdf)<br>- [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2040-Notes.pdf) |
 | **CS2100 Computer Organisation** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf) |
+| **CS2103 Software Engineering** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2103-FinalExaminationCheatsheet.pdf) |
 | **CS2106 Introduction to Operating Systems** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2106-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2106-MidtermExaminationCheatsheet.pdf) |
 | **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
 | **CS3243 Introduction to Artificial Intelligence** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
