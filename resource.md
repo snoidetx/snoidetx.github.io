@@ -14,8 +14,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/
 
 ## Module Forecast
 ```
-- CS3230 Design and Analysis of Algorithms
-- GET1018 The Mathematics of Games
+- CS4234 Optimisation Algorithm
 ```
 
 ---
@@ -47,7 +46,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/
 | **CS2100 Computer Organisation** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2100-FinalExaminationCheatsheet.pdf) |
 | **CS2103 Software Engineering** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2103-FinalExaminationCheatsheet.pdf) |
 | **CS2106 Introduction to Operating Systems** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2106-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS2106-MidtermExaminationCheatsheet.pdf) |
-| **CS3230 Design and Analysis of Algorithms** | - [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
+| **CS3230 Design and Analysis of Algorithms** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
 | **CS3243 Introduction to Artificial Intelligence** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244 Machine Learning** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
 
