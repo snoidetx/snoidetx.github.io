@@ -77,6 +77,9 @@
 ---
 
 ## Work and Internship Experiences
+### Singtel, Software Developer (May 2022 - Aug 2022)
+- Developed cross-platform mobile applications as part of the mobile chapter
+
 ### National University of Singapore, Teaching Assistant (CS2030) (Jan 2022 - Present)
 - Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students
 - Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks
@@ -133,7 +136,7 @@
 
 ## Additional Information
 - **Languages:** English (Proficient), Mandarin (Native)
-- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript, Kotlin, Python, TypeScript), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One), Social Media (Instagram, Facebook)
+- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript, Kotlin, Python, TypeScript), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
 - **Interests:** Basketball, Music, Fine Arts
 
 ---
