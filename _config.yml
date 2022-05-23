@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Tian Xiao @snoidetx
-description: <b>National University of Singapore</b><br><br>Welcome to my website! This website consists of three parts - my portfolio, my research projects as well as my academic resources.<br> 
+description: <b>National University of Singapore</b><br><br>Welcome to my website! This website consists of three parts - my portfolio, my research projects as well as my academic resources. Click on the tabs at the top to switch between parts!<br> 
 logo: /img/logo.png
 classes: wide
 site_favicon: favicon.png
