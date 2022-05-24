@@ -136,7 +136,7 @@
 
 ## Additional Information
 - **Languages:** English (Proficient), Mandarin (Native)
-- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript, Kotlin, Python, TypeScript), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
+- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React and React Native frameworks), Kotlin, Python, TypeScript), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
 - **Interests:** Basketball, Music, Fine Arts
 
 ---
