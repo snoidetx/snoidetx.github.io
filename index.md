@@ -89,19 +89,17 @@
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Teaching Assistant (CS2030/S)**<br>Jan 2022 - Present<br>Part-time · Ongoing<br><br>• Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students<br>• Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS2040/S)**<br>Aug 2021 - Present<br>Part-time · Ongoing<br><br>• Assisted professors in preparing and facilitating teaching of module CS2040/S Data Structures and Algorithms, a course to equip students with knowledge on basic data structures and algorithms in computing using Java involving more than 450 students<br>• Developed class materials and conducted weekly laboratory sessions for students to reinforce conceptual knowledge and get hands-on experience on using certain data structures and algorithms and marked their assignments |
 
-### National University of Singapore, Teaching Assistant (CS2040/S) (Aug 2021 - Present)
-- Assisted professors in preparing and facilitating teaching of module CS2040/S Data Structures and Algorithms, a course to equip students with knowledge on basic data structures and algorithms in computing using Java involving more than 450 students
--	Developed class materials and conducted weekly laboratory sessions for students to reinforce conceptual knowledge and get hands-on experience on using certain data structures and algorithms and marked their assignments
+<br>
 
-### Learnseeker, Education Strategist & Creator (Oct 2021 - Jan 2022)
-- Facilitated the operation of LearnSeeker, an AI data visualisation and automatic grading tool for schools
-- Created digital education resources
-- Managed the classification and curation of education resources
+| <img src="img/logos/logo-learnseeker.png" width=75> | Learnseeker |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Education Strategist & Creator**<br>Oct 2021 - Jan 2022<br>Internship · 4 mos<br><br>• Facilitated the operation of LearnSeeker, an AI data visualisation and automatic grading tool for schools<br>• Created digital education resources<br>• Managed the classification and curation of education resources |
 
-### Agency for Science, Technology and Research, Researcher (Mar 2018 - Feb 2019)
-- Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios
-- Computed Python algorithms to determine correlations within large datasets retrieved from Lock-in Thermography Technique
-- Collaborated with colleagues to predict general trends beyond pre-engineered prototypes
+<br>
+
+| <img src="img/logos/logo-astar.png" width=75> | Learnseeker |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>Mar 2018 - Feb 2019<br>Internship · 1 yr<br><br>• Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios<br>• Computed Python algorithms (regression analysis & machine learning) to determine correlations within large datasets retrieved from Lock-in Thermography Technique<br>• Collaborated with colleagues to predict general trends beyond pre-engineered prototypes |
 
 <br>
 
