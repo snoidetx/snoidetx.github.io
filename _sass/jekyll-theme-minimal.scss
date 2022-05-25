@@ -87,11 +87,15 @@ table {
 }
 
 table th:first-of-type {
-    width: 50%;
+    width: 16%;
 }
 
 table th:nth-of-type(2) {
-    width: 50%;
+    width: 42%;
+}
+
+table th:nth-of-type(3) {
+    width: 42%; 
 }
 
 th, td {
