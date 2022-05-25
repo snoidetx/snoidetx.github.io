@@ -77,8 +77,6 @@
 ---
 
 ## Work and Internship Experiences
-### Singtel, Software Developer (May 2022 - Aug 2022)
-- Developed cross-platform mobile applications as part of the mobile chapter
 
 | <img src="img/logos/logo-singtel.png" width=75> | Singtel |
 | :-: | --- |
