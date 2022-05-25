@@ -4,7 +4,7 @@
 
 ---
 
-# My Resource (PAGE UNDER MAINTENANCE FROM 25/05/2022)
+# My Resource
 
 ---
 
@@ -16,6 +16,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/
 ```
 - CS4234 Optimisation Algorithm
 ```
+
+<br>
 
 ---
 
@@ -33,6 +35,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/
 | **ST2131** | **Probability** | - [Notes](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
 
+<br>
+
 ---
 
 ## Computer Science
@@ -49,6 +53,8 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/
 | **CS3230** | **Design and Analysis of Algorithms** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3230-MidtermExaminationCheatsheet.pdf) |
 | **CS3243** | **Introduction to Artificial Intelligence** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244** | **Machine Learning** | - [Final Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-FinalExaminationCheatsheet.pdf)<br>- [Midterm Examination Cheatsheet](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resource/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
+
+<br>
 
 ---
 
