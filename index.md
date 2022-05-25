@@ -18,7 +18,7 @@ Here is my portfolio page. (*updated on 25/05/2022*)
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.96/5.00<br>• CAP (Computer Science): 5.00/5.00<br><br>**Awards and Honours**<br><br>• Science & Technology Undergraduate Merit Scholarship<br>• Dean's List, Bachelor of Computing, AY2021/22 Semester 1<br>• Dean's List, Bachelor of Science, AY2021/22 Semester 1<br>• Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1<br>• Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1<br><br>**Relative Modules Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Discrete Structures · Linear Algebra · Machine Learning · Mathematical Analysis · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Software Engineering | 
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.96/5.00<br>• CAP (Computer Science): 5.00/5.00<br><br>**Awards and Honours**<br><br>• Science & Technology Undergraduate Merit Scholarship<br>• Dean's List, Bachelor of Computing, AY2021/22 Semester 1<br>• Dean's List, Bachelor of Science, AY2021/22 Semester 1<br>• Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1<br>• Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1<br><br>**Relative Modules Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Discrete Structures · Linear Algebra · Machine Learning · Mathematical Analysis · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Software Engineering<br> | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Ridge View Residential College**<br>Singapore · Aug 2020 - May 2022<br>Full-time · 1 yr 10 mos<br><br>• Led Project GreenFood@NUS in Action For Sustainability Symposium and achieved Best Project - Influencer Award<br>• Completed RVRC Year One & Two Programme |
 
 <br>
@@ -53,7 +53,7 @@ Here is my portfolio page. (*updated on 25/05/2022*)
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Teaching Assistant (CS2030/S)**<br>Jan 2022 - Present<br>Part-time · Ongoing<br><br>• Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students<br>• Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks | 
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Teaching Assistant (CS2030/S)**<br>Jan 2022 - Present<br>Part-time · Ongoing<br><br>• Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students<br>• Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks<br> | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS2040/S)**<br>Aug 2021 - Present<br>Part-time · Ongoing<br><br>• Assisted professors in preparing and facilitating teaching of module CS2040/S Data Structures and Algorithms, a course to equip students with knowledge on basic data structures and algorithms in computing using Java involving more than 450 students<br>• Developed class materials and conducted weekly laboratory sessions for students to reinforce conceptual knowledge and get hands-on experience on using certain data structures and algorithms and marked their assignments |
 
 <br>
@@ -114,7 +114,9 @@ Here is my portfolio page. (*updated on 25/05/2022*)
 
 ## Additional Information
 - **Languages:** English (Bilingual or Native), Mandarin (Bilingual or Native)
-- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React and React Native frameworks), Kotlin, Python, TypeScript), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
+- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React and React Native frameworks), Kotlin, MATLAB, Python, R, TypeScript), Revision Control Softwares (Git (with BitBucket and Github platforms)), Machine Learning Libraries (Keras, SkyLearn), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
 - **Interests:** Basketball, Music, Fine Arts
+
+<br>
 
 ---
