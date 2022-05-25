@@ -4,7 +4,7 @@
 
 ---
 
-# About Me
+# About Me (PAGE UNDER MAINTENANCE FROM 25/05/2022)
 
 ---
 
@@ -79,6 +79,10 @@
 ## Work and Internship Experiences
 ### Singtel, Software Developer (May 2022 - Aug 2022)
 - Developed cross-platform mobile applications as part of the mobile chapter
+
+| <img width=200> | National University of Singapore |
+| --- | --- |
+| symbol | text |
 
 ### National University of Singapore, Teaching Assistant (CS2030) (Jan 2022 - Present)
 - Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students
