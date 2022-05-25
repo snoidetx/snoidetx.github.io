@@ -16,70 +16,26 @@
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.96/5.00<br>• CAP (Computer Science): 5.00/5.00<br><br>**Awards and Honours**<br><br>• Science & Technology Undergraduate Merit Scholarship<br>• Dean's List, Bachelor of Computing, AY2021/22 Semester 1<br>• Dean's List, Bachelor of Science, AY2021/22 Semester 1<br>• Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1<br>• Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1<br><br>**Relative Modules Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Discrete Structures · Linear Algebra · Machine Learning · Mathematical Analysis · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Software Engineering | 
-| <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Ridge View Residential College**<br>Aug 2020 - May 2022<br>Full-time · 1 yr 10 mos<br><br>• Led Project GreenFood@NUS in Action For Sustainability Symposium and achieved Best Project - Influencer Award<br>• Completed RVRC Year One & Two Programme |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.96/5.00<br>• CAP (Computer Science): 5.00/5.00<br><br>**Awards and Honours**<br><br>• Science & Technology Undergraduate Merit Scholarship<br>• Dean's List, Bachelor of Computing, AY2021/22 Semester 1<br>• Dean's List, Bachelor of Science, AY2021/22 Semester 1<br>• Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1<br>• Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1<br><br>**Relative Modules Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Discrete Structures · Linear Algebra · Machine Learning · Mathematical Analysis · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Software Engineering | 
+| <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Ridge View Residential College**<br>Singapore · Aug 2020 - May 2022<br>Full-time · 1 yr 10 mos<br><br>• Led Project GreenFood@NUS in Action For Sustainability Symposium and achieved Best Project - Influencer Award<br>• Completed RVRC Year One & Two Programme |
 
 <br>
 
+| <img src="img/logos/logo-njc.png" width=75> | National Junior College |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Singapore Cambridge GCE A-Level Certificate**<br>Singapore · Jan 2018 - Dec 2019<br>Full-time · 2 yrs<br><br>**Awards and Honours**<br><br>• Ministry of Education School-based Scholarship (SM1)<br><br>**Relative Modules Taken**<br><br>H2 Economics · H2 Further Mathematics · H2 Mathematics · H2 Physics |
 
-### National University of Singapore (Aug 2020 - Present)
-#### Bachelor of Science and Bachelor of Computing
-- Applied Mathematics and Computer Science (Double Degree)
-- Science & Technology Undergraduate Merit Scholarship
-- Expected Date of Graduation: May 2024
-- CAP (Applied Mathematics): 4.96/5.00
-- CAP (Computer Science): 5.00/5.00
+<br>
 
-#### Awards and Honours
-- Dean's List, Bachelor of Computing (Computer Science), AY2021/22 Semester 1
-- Dean's List, Bachelor of Science, AY2021/22 Semester 1
-- Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1
-- Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1
+| <img src="img/logos/logo-chs.png" width=75> | Catholic High School |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Singapore Cambridge GCE O-Level Certificate**<br>Singapore · Jan 2016 - Dec 2017<br>Full-time · 2 yrs<br><br>**Awards and Honours**<br><br>• Ministry of Education School-based Scholarship (SM1)<br><br>**Relative Modules Taken**<br><br>Additional Mathematics · Biology · Chemistry · Mathematics · Physics |
 
-#### Relevant Modules Taken
-- Artificial Intelligence
-- Calculus
-- Career Catalyst
--	Combinatorics and Graphs
--	Computer Organisation
--	Data Structures and Algorithms
--	Design and Analysis of Algorithms
--	Discrete Structures
--	Linear Algebra
--	Machine Learning
--	Mathematical Analysis
--	Numerical Analysis
--	Operating Systems
--	Probability
--	Professional and Academic Communication
--	Programming Methodology
--	Regression Analysis
--	Software Engineering
--	Workplace Readiness
+<br>
 
-
-### National Junior College (Jan 2018 - Dec 2019)
-#### Singapore Cambridge GCE A-Level Certificate
-- Ministry of Education School-based Scholarship (SM1)
-
-#### Relevant Coursework/Modules Taken
-- H2 Economics
-- H2 Further Mathematics
-- H2 Mathematics
-- H2 Physics
-
-### Catholic High School (Jan 2016 - Dec 2017)
-#### Singapore Cambridge GCE O-Level Certificate
-- Ministry of Education School-based Scholarship (SM1)
-
-#### Relevant Coursework/Modules Taken
-- Additional Mathematics
-- Biology
-- Chemistry
-- Mathematics
-- Physics
-
-### Northeast Yucai School (Sep 2011 - Oct 2015)
+| <img src="img/logos/logo-neyc.png" width=75> | Northeast Yucai School School |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **China Junior High School Graduation Certificate**<br>Singapore · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos |
 
 <br>
 
