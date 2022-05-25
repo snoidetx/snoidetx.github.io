@@ -8,7 +8,7 @@
 
 ---
 
-Here are some NUS module resources I collated by myself. Enjoy! (*updated on 03/05/2022*)
+Here are some NUS module resources I collated by myself. Enjoy! (*updated on 25/05/2022*)
 
 ---
 
