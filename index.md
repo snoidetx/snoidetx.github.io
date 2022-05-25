@@ -81,7 +81,7 @@
 - Developed cross-platform mobile applications as part of the mobile chapter
 
 | <img src="img/logos/logo-singtel.png" width=75> | Singtel |
-| :-: | --- |
+| :-- | --- |
 | <img src="img/bullet.png" width="50%" height="auto"><img src="img/vertical-line.png" width="50%" height="100%"> | **Software Developer (May 2022 - Present)**<br>Internship · Ongoing<br><br>- Developed cross-platform mobile applications as part of the mobile chapter |
 
 <br>
