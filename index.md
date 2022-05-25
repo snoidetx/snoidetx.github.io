@@ -82,11 +82,13 @@
 
 | <img src="img/logos/logo-singtel.png" width=50> | Singtel |
 | --- | --- |
-| symbol | text |
+| ◎<br><img src="img/vertical-line.png" width=50 height=100%> | **Software Developer (May 2022 - Present)**<br>Internship · Ongoing<br><br>- Developed cross-platform mobile applications as part of the mobile chapter |
 
-| <img src="img/logos/logo-nus.png" width=50> | National University of Singapore |
+<br>
+
+| <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | --- | --- |
-| symbol | **Teaching Assistant (CS2030) (Jan 2022 - Present)**<br><br>- Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students<br>- Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks |
+| symbol | **Teaching Assistant (CS2030) (Jan 2022 - Present)**<br>Part-Time · Ongoing<br>- Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students<br>- Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks | 
 
 ### National University of Singapore, Teaching Assistant (CS2030) (Jan 2022 - Present)
 - Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students
