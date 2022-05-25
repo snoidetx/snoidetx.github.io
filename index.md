@@ -4,11 +4,13 @@
 
 ---
 
-# About Me (PAGE UNDER MAINTENANCE FROM 25/05/2022)
+# About Me
 
 ---
 
-[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) (*updated on 28/03/2022*)
+Here is my portfolio page. (*updated on 25/05/2022*)
+
+[Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) 
 
 ---
 
@@ -62,7 +64,7 @@
 
 <br>
 
-| <img src="img/logos/logo-astar.png" width=75> | Learnseeker |
+| <img src="img/logos/logo-astar.png" width=75> | Agency for Science, Technology and Research |
 | :-: | --- |
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>Mar 2018 - Feb 2019<br>Internship · 1 yr<br><br>• Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios<br>• Computed Python algorithms (regression analysis & machine learning) to determine correlations within large datasets retrieved from Lock-in Thermography Technique<br>• Collaborated with colleagues to predict general trends beyond pre-engineered prototypes |
 
@@ -70,40 +72,48 @@
 
 ---
 
-## Co-curricular Activities and Volunteer Experiences
-### NUS Mathematics Society, Publicity Director (May 2021 - Present)
--	Managed all publicity matters of NUS Mathematics Society to increase its uptake and improve its impact in order to benefit student community
--	Publicised NUS Mathematics Society in Orientation Camp and Student Life Fair via multiple social media platforms that recruited and retained around 120 members in total
--	Bridged communication on career information between around 1500 students, school departments and companies 
+## Co-curricular Activities (CCAs) and Community Services
 
-### NUS Teach Singapore, Academic Coach (Aug 2021 - December 2021)
-- Provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme, as a member of NUS Teach Singapore initiative
+| <img src="img/logos/logo-mathsoc.png" width=75> | NUS Mathematics Society |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Publicity Director**<br>Mar 2021 - Present<br>Part-time · Ongoing<br><br>• Managed all publicity matters of NUS Mathematics Society to increase its uptake and improve its impact in order to benefit student community<br>• Publicised NUS Mathematics Society in Orientation Camp and Student Life Fair via multiple social media platforms that recruited and retained around 120 members in total<br>• Bridged communication on career information between around 1500 students, school departments and companies |
 
-### Peer Mentorship Programme, Chairperson (Nov 2018 - Aug 2019)
-- Organised and chaired Peer Mentorship Programme to tutor disadvantaged children at Kebun Baru Community Centre
-- Conducted mentoring sessions and facilitated talent development workshops for 50 children
-- Arranged schedules of 22 members to ensure sufficient manpower
+<br>
 
-### School Chinese Orchestra and Guzheng Ensemble, Section Leader (June 2018 - June 2019)
-- Headed Bowed Strings Section in Chinese Orchestra and facilitated major events as part of the Execution Committee
-- Cooperated with conductors and other sections to achieve perfect coordination across orchestra and obtained a Certification of Distinction at Singapore Youth Festival 2019 Arts Presentation For Chinese Orchestra (Full Orchestra) - JC
-- Organised activities and outings to promote camaraderie within whole orchestra involving about 100 members
+| <img src="img/logos/logo-nus.png" width=75> | NUS Teach Singapore |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Academic Coach**<br>Aug 2021 - December 2021<br>CCA · 5 mos<br><br>• Provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme, as a member of NUS Teach Singapore initiative |
 
-### Citi-YMCA Youth for Causes: Project EOS, Chairperson (Feb 2018 - Oct 2018)
-- Initiated and chaired Project EOS to raise funds and public awareness for underprivileged children in Singapore
-- Partnered with Singapore Children’s Society for starting funds and necessary help in order to improve credibility and authority
-- Communicated with members for creative marketing strategies and raised thousands of Singapore Dollars for underprivileged children
+<br>
 
-### School Chinese Drama, Student Director (Jan 2016 - June 2017)
-- Directed drama shows and supervised script-writing, trainings and performances
-- Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - JC
+| <img src="img/logos/logo-kbcc.png" width=75> | Kebun Baru Community Centre Peer Mentorship Programme |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Chairperson**<br>Nov 2018 - Aug 2019<br>Volunteer · 10 mos<br><br>• Organised and chaired Peer Mentorship Programme to tutor disadvantaged children at Kebun Baru Community Centre<br>• Conducted mentoring sessions and facilitated talent development workshops for 50 children<br>• Arranged schedules of 22 members to ensure sufficient manpower |
+
+<br>
+
+| <img src="img/logos/logo-njc.png" width=75> | NJC Chinese Orchestra and Guzheng Ensemble |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Section Leader**<br>June 2018 - June 2019<br>CCA · 10 mos<br><br>• Headed Bowed Strings Section in Chinese Orchestra and facilitated major events as part of the Execution Committee<br>• Cooperated with conductors and other sections to achieve perfect coordination across orchestra and obtained a Certification of Distinction at Singapore Youth Festival 2019 Arts Presentation For Chinese Orchestra (Full Orchestra) - Junior College<br>• Organised activities and outings to promote camaraderie within whole orchestra involving about 100 members |
+
+<br>
+
+| <img src="img/logos/logo-eos.png" width=75> | Citi-YMCA Youth for Causes: Project EOS |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Chairperson**<br>Feb 2018 - Oct 2018<br>Volunteer · 9 mos<br><br>• Initiated and chaired Project EOS to raise funds and public awareness for underprivileged children in Singapore<br>• Partnered with Singapore Children’s Society for starting funds and necessary help in order to improve credibility and authority<br>• Communicated with members for creative marketing strategies and raised thousands of Singapore Dollars for underprivileged children |
+
+<br>
+
+| <img src="img/logos/logo-chs.png" width=75> | CHS Chinese Drama |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Student Director**<br>Jan 2016 - June 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School |
 
 <br>
 
 ---
 
 ## Additional Information
-- **Languages:** English (Proficient), Mandarin (Native)
+- **Languages:** English (Bilingual or Native), Mandarin (Bilingual or Native)
 - **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React and React Native frameworks), Kotlin, Python, TypeScript), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
 - **Interests:** Basketball, Music, Fine Arts
 
