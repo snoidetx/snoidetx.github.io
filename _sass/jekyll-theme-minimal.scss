@@ -98,6 +98,14 @@ table th:nth-of-type(3) {
     width: 46%; 
 }
 
+.gallery {
+  border: 0px;
+}
+
+.gallery td:first-of-type {
+  width: 70%; 
+}
+
 th, td {
   text-align:left;
   padding:5px 10px;
