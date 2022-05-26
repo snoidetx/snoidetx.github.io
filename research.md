@@ -14,7 +14,7 @@ Here are the research projects that I have done before. Please contact me via em
 
 | <img src="img/logos/logo-nus.png" width=75> | Predicting Scores and Controversialities of Reddit Posts Using Machine Learning |
 | :-: | --- |
-|  | J. Fan, J. Han, B. Li, X. Tian, Z. Xin · 2022 |
+|  | J. Fan, J. Han, B. Li, X. Tian, Z. Xin · 2022<br><br><table class="gallery"><tr><td></td><td></td></tr></table> |
 
 
 ## Predicting Scores and Controversialities of Reddit Posts Using Machine Learning, 2022
