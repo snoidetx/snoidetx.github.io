@@ -4,11 +4,11 @@
 
 ---
 
-# My Research (PAGE UNDER MAINTENANCE FROM 26/05/2022)
+# My Research
 
 ---
 
-Here are the research projects that I have done before. Please contact me via email should there be any further enquiries. (*updated on 25/05/2022*)
+Here are the research projects that I have done before. Please contact me via email should there be any further enquiries. (*updated on 26/05/2022*)
 
 ---
 
@@ -19,6 +19,10 @@ Here are the research projects that I have done before. Please contact me via em
 
 <br>
 
+---
+
+<br>
+
 | <img src="img/logos/logo-nus.png" width=75> | Somatropin and Growth Hormone Deficiency |
 | :-: | :-- |
 | **Overview** | J. Fan, **X. Tian** · 2021<br><br>Special credit to Dr Mok for his patience and empathy along the way!<br><br>**Abstract**<br><br>Somatropin is a type of drug used to complement natural somatotropin secreted by human pituitary gland in treating growth hormone deficiency. Its working mechanism is identical to somatotropin - binding to somatotropin receptors, activation of receptors and therefore activation of two signaling pathways, namely JAK-STAT pathway and MAPK pathway. Somatropin is conventionally produced through recombinant DNA technology, which is time-consuming and requires daily administration. More advanced techniques have been developed to improve such drawbacks.<br><br>**Link to Full Text**<br><br>\[[Local Archive](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/somatropin-and-growth-hormone-deficiency.pdf)\] |
@@ -26,10 +30,18 @@ Here are the research projects that I have done before. Please contact me via em
 
 <br>
 
+---
+
+<br>
+
 | <img src="img/logos/logo-astar.png" width=75> | Identifying the Geometry of an Object Using Lock-in Thermography |
 | :-: | :-- |
 | **Overview** | **X. Tian**, M. Yin, H. Goh · 2019<br><br>**Abstract**<br><br>Lock-in Thermography (LIT) is a type of Infrared Thermography (IRT) that can be used as a useful non-destructive testing (NDT) technique for the detection of subsurface anomalies in objects. Currently, LIT fails to estimate the thickness at a point on the tested object. This makes LIT unable to figure out the 3-dimensional geometry of an object. In this project, two techniques of identifying the geometry of an object using LIT are discussed. The main idea of both techniques is to find a relationship between the parameters obtained from LIT and the thickness at each data point. Technique I builds a numerical function that models the relationship between thickness, Lock-in phase, and other parameters. The function is then inverted for thickness estimation. Technique II is a quantitative method, in which a database is created with six dimensions - thickness, Lock-In phase, Lock-In amplitude and three other parameters, based on data obtained from LIT experiments or simulations. Estimated thickness is obtained by retrieving data from the database. The database can be improved based on Principal Component Analysis. Evaluation of the techniques is done by measuring root-mean-square deviation, and calculating successful rate with different tolerances. Moreover, during the application of the techniques, Stochastic Gradient Descent can be used to determine the time when sufficient data have been collected from LIT measurement to generate the estimated geometry accurately.<br><br>**Link to Full Text**<br><br>\[[arXiv](https://arxiv.org/pdf/1903.02854.pdf)\] · \[[Local Archive](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/research/somatropin-and-growth-hormone-deficiency.pdf)\] · \[[ResearchGate](https://www.researchgate.net/publication/331587447_Identifying_the_Geometry_of_an_Object_Using_Lock-In_Thermography)\] |
 | **Gallery** | <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><img src="/cont/research/img/identifying-the-geometry-of-an-object-using-lock-in-thermography-poster-1.PNG"> |
+
+<br>
+
+---
 
 <br>
 
