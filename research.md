@@ -13,7 +13,7 @@ Here are the research projects that I have done before. Please contact me via em
 ---
 
 | <img src="img/logos/logo-nus.png" width=75> | Predicting Scores and Controversialities of Reddit Posts Using Machine Learning |
-| :-: | --- |
+| :-: | :-- |
 | **Overview** | J. Fan, J. Han, B. Li, X. Tian, Z. Xin · 2022<br><br>**Abstract**<br><br>Reddit posters may post contents that invoke disagreements and disputes, but in many cases they would not foresee these to happen. The extent of disagreements and disputes can be quantified by the score and controversiality data from the Reddit dataset. We aim to predict these two quantities based on the content of posts. In this report, we explored 9 machine learning models and 3 deep learning models and compared their performances. The best-performing models will be adopted as the driving core of our application – “PostLy”, through which we are able to provide timely feedback and suggestions for posters about their drafts to help them make better decisions. We also include the main features and user interfaces of PostLy to demonstrate how it can be used together with Reddit.<br><br>**Link to Full Text**<br><br>*Coming soon...* |
 | **Gallery** | <br><br><br><br><br><br><br><br><br><br><img src="/cont/research/img/predicting-scores-and-controversialities-of-reddit-posts-using-machine-learning.png"> |
 
