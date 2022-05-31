@@ -1,6 +1,6 @@
 |  **[Home](https://snoidetx.github.io)**  |  **[Research](https://snoidetx.github.io/research)**  |  **[Resource](https://snoidetx.github.io/resource)**  |
 
-(65) 8510 6059 • tianxiao02@u.nus.edu • [LinkedIn](https://www.linkedin.com/in/tian-xiao-1202/) • [Github](https://github.com/snoidetx/)    
+(65) 8510 6059 • tianxiaos1202@gmail.com • tianxiao02@u.nus.edu • [LinkedIn](https://www.linkedin.com/in/tian-xiao-1202/) • [Github](https://github.com/snoidetx/)    
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-Here is my portfolio page. (*updated on 30/05/2022*)
+Here is my portfolio page. (*updated on 31/05/2022*)
 
 [Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) 
 
@@ -18,7 +18,7 @@ Here is my portfolio page. (*updated on 30/05/2022*)
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.93/5.00<br>• CAP (Computer Science): 4.91/5.00<br><br>**Awards and Honours**<br><br>• Science & Technology Undergraduate Merit Scholarship<br>• Dean's List, Bachelor of Computing, AY2021/22 Semester 1<br>• Dean's List, Bachelor of Science, AY2021/22 Semester 1<br>• Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1<br>• Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1<br><br>**Relative Modules Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Discrete Structures · Linear Algebra · Machine Learning · Mathematical Analysis · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Software Engineering<br><br> | 
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.93/5.00<br>• CAP (Computer Science): 4.91/5.00<br><br>**Awards and Honours**<br><br>• Science & Technology Undergraduate Merit Scholarship<br>• [Dean's List, Bachelor of Computing, AY2021/22 Semester 1](https://credentials.nus.edu.sg/73a501ce-6365-4caa-bdd5-091354f937c4)<br>• [Dean's List, Bachelor of Science, AY2021/22 Semester 1](https://credentials.nus.edu.sg/d99b3c4b-068c-4ef1-84eb-1e7618405fa6)<br>• [Cohort Top among 634 students, CS1010S Programming Methodology, AY2020/21 Semester 1](https://github.com/snoidetx/snoidepaedia/blob/main/profile/honours-and-awards/commendation-letter-for-top-students-cs1010s.pdf)<br>• [Cohort Top among 435 students, CS1231 Discrete Structures, AY2020/21 Semester 1](https://github.com/snoidetx/snoidepaedia/blob/main/profile/honours-and-awards/commendation-letter-for-top-students-cs1231.pdf)<br><br>**Relative Modules Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Discrete Structures · Linear Algebra · Machine Learning · Mathematical Analysis · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Software Engineering<br><br> | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Ridge View Residential College Programme**<br>Singapore · Aug 2020 - May 2022<br>Full-time · 1 yr 10 mos<br><br>• Led Project GreenFood@NUS in Action For Sustainability Symposium and achieved Best Project - Influencer Award<br>• Completed RVRC Year One & Two Programme |
 
 <br>
