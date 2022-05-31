@@ -10,6 +10,8 @@
 
 Here is my portfolio page. (*updated on 31/05/2022*)
 
+Know more about me at Snoidepaedia (under development).
+
 [Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) 
 
 ---
