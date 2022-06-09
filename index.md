@@ -116,7 +116,7 @@ Know more about me at [Snoidepaedia](https://snoidetx.github.io/Snoidepaedia/) (
 
 ## Additional Information
 - **Languages:** English (Bilingual or Native), Mandarin (Bilingual or Native)
-- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React and React Native frameworks), Kotlin, MATLAB, Python, R, TypeScript), Revision Control Softwares (Git (with BitBucket and Github platforms)), Machine Learning Libraries (Keras, SkyLearn), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
+- **IT Skills:** Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React, React Native and Redux), Kotlin, MATLAB, Python, R, TypeScript), Revision Control Softwares (Git (with BitBucket and Github platforms)), Machine Learning Libraries (Keras, SkyLearn), Operating Systems (MacOS, Linux, Windows), Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One)
 - **Interests:** Basketball, Music, Fine Arts
 
 <br>
