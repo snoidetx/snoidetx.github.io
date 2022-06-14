@@ -1,44 +1,7 @@
-# Snoide's Personal Website
+# snoidetx.github.io
 
-Hi there, welcome to Snoide's personal website! Check out at [this link](https://snoidetx.github.io/) to view it!
+***snoidetx.github.io*** is the portfolio page of [***@snoidetx***](https://github.com/snoidetx). It is hosted on [**GitHub Pages**](https://pages.github.com/), and uses the [**Minimal**](https://github.com/orderedlist/minimal) theme by [***@orderedlist***](https://github.com/orderedlist).
 
-## User Guide
+## How to view
 
-There are three main sections in the website, **[Index](https://snoidetx.github.io/index)**, **[Research](https://snoidetx.github.io/research)** and **[Resource](https://snoidetx.github.io/resource)**.
-**Index** section is basically an introduction to myself; 
-**Research** section introduces my past research done;
-**Resource** section lists the academic resources prepared by myself.
-You can switch between sections by clicking the three tabs at the top of the page:
-<img src="img/tabs.png" height=50>
-
----
-
-### Section: *Index*
-
-Lists my past academic, work and non-academic experience. In other words, it is my portfolio.
-
-* **View my resume:** Click the *Click to view my resume!* link at the top of the page:
-<img src="img/view_resume.png" height=100>
-
----
-
-### Section: *Research*
-
-Lists my past research done, including their abstracts, image previews and links to text.
-
-* **View full text:** Click the link under the *Link to Full Text* subsections:
-<img src="/img/link_to_text.png" height=100>
-
----
-
-### Section: *Resource*
-
-Lists the academic resources prepared by myself, including those in National University of Singapore (NUS) and those from Singapore Cambridge GCE A-Level Examination.
-
-* **View resources that are coming soon:** Scroll to the *Module Forecast* section. The modules listed here represent those I am probably preparing resources for.
-* **Access resources:** For each category of modules/subjects, there is a table consisting of two columns - name and resources (refering to the image below). To access the resources of a module/subject, navigate to the module/subject name and click the link of the resources you want to look at on the second column.
-<img src="/img/resource.png" height=300>
-
----
-
-Hooray!
+Click this [link](https://snoidetx.github.io) or go to [https://snoidetx.github.io](https://snoidetx.github.io). Tap the three tabs at the top (**Home**, **Research** and **Resource**) to view the portfolio page, research page and resource page.
