@@ -12,6 +12,10 @@ Here is my portfolio page. (*updated on 14/06/2022*)
 
 [Click to view my resume!](https://github.com/snoidetx/snoidetx.github.io/blob/main/cont/resume/tian-xiao-resume.pdf) 
 
+### Note
+
+**The content of *snoidetx.github.io* will be completely moved to [***Snoidepaedia***](snoidetx.github.io/Snoidepaedia), and this page will be depreciated as a result. However, you can use this page normally at this moment.**
+
 ---
 
 ## Education
