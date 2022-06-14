@@ -12,7 +12,7 @@ Here are the research projects that I have done before. Please contact me via em
 
 ### Note
 
-**The content of *snoidetx.github.io* will be completely moved to [***Snoidepaedia***](snoidetx.github.io/Snoidepaedia), and this page will be depreciated as a result. However, you can use this page normally at this moment.**
+**The content of *snoidetx.github.io* will be completely moved to [*Snoidepaedia*](snoidetx.github.io/Snoidepaedia), and this page will be depreciated as a result. However, you can use this page normally at this moment.**
 
 ---
 

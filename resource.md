@@ -12,7 +12,7 @@ Here are some NUS module resources I collated by myself. Enjoy! (*updated on 31/
 
 ### Note
 
-**The content of *snoidetx.github.io* will be completely moved to [***Snoidepaedia***](snoidetx.github.io/Snoidepaedia), and this page will be depreciated as a result. However, you can use this page normally at this moment.**
+**The content of *snoidetx.github.io* will be completely moved to [*Snoidepaedia*](snoidetx.github.io/Snoidepaedia), and this page will be depreciated as a result. However, you can use this page normally at this moment.**
 
 ---
 
