@@ -1,6 +1,6 @@
-|  **[Home](https://snoidetx.github.io)**  |  **[Research](https://snoidetx.github.io/research)**  |  **[Resource](https://snoidetx.github.io/resource)**  |
+|  **[Home](https://snoidetx.github.io/archive)**  |  **[Research](https://snoidetx.github.io/archive/research)**  |  **[Resource](https://snoidetx.github.io/archive/resource)**  |
 
-(65) 8510 6059 • tianxiaos1202@gmail.com • tianxiao02@u.nus.edu • [LinkedIn](https://www.linkedin.com/in/tian-xiao-1202/) • [Github](https://github.com/snoidetx/)    
+(65) 8510 6059 • tianxiaos1202@gmail.com • tianxiao02@u.nus.edu • [LinkedIn](https://www.linkedin.com/in/snoidetx/) • [Github](https://github.com/snoidetx/)    
 
 ---
 
